@@ -5,13 +5,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<style>
-.center-image {
-  display: flex;
-  justify-content: center;
-  height: 25vh;
-}
-</style>
+
 </head>
 <body>
 <div class="center-image">
